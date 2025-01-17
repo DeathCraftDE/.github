@@ -77,13 +77,13 @@ Deine Ideen sind uns wichtig – mach mit und gestalte DeathCraft aktiv mit!
 | `v0.9.5` | 2024-12-20              | Neue Tools für Community bereitgestellt |
 | `v0.9.0` | 2024-11-05              | Erste Version online verfügbar          |
 
-👉 **Changelog:** Sieh dir das [Changelog](./CHANGELOG.md) für weitere Details an.  
+👉 **Changelog:** Sieh dir das [Changelog](https://dc.gg/deathcraft) für weitere Details an.  
 
 ---
 
 ### 💬 Kontakt & Support  
 
-- **Discord**: [Join our community!](https://discord.gg/deathcraft)  
+- **Discord**: [Join our community!](https://dc.gg/deathcraft)  
 - **Issues**: [Melde ein Problem](https://github.com/deathcraft/issues)  
 - **Feedback**: feedback@deathcraft.com  
 
